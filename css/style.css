@@ -214,16 +214,26 @@ text-transform: uppercase;
 
 .guy {
 
-
+float:left;
+margin-left: auto;
+padding:20px 40 px 40px;
+max-width:fit-content;
 background-color: #f3f3f3;
 font-family: "roboto";
 font-size:18px;
-margin-bottom: 305px;
+margin: 0 auto;
 
 
 
 }
 
+
+
+.container{
+    
+    float: right;
+     background-color: #f3f3f3;
+}
 
 .burger {
 
@@ -266,7 +276,7 @@ figure {
     
      .footer .logo {
 
-        widt:100px;
+        max-width:fit-content;
         text-align: center;
       }
       
