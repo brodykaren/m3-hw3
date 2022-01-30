@@ -374,3 +374,81 @@ footer {
          left:-9px;
      
     }
+
+
+
+    /*****Media Queries*****/
+
+
+
+@media only screen and (max-width:620px) {
+
+
+    .header,.navbar,.container,.burger,.guys,.logo,.footer,.p.button,.banner,.h2 {
+
+
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width:920px) {
+
+
+    .header,.navbar,.container,.burger,.guys,.logo,.footer,.p.button,.banner,.h2 {
+
+
+        width: 100%;
+    }
+}
+
+
+
+@media only screen and (max-width:1220px) {
+
+
+    .header,.navbar,.container,.burger,.guys,.logo,.footer,.p.button,.banner,.h2 {
+
+
+        width: 100%;
+    }
+
+
+
+    @media only screen and (max-width:200px) {
+
+        .b-1.banner {
+
+            display: center;
+            width: 100%;
+        }
+    }
+
+
+
+
+    @media only screen and (max-width:630px) {
+    
+    
+
+
+    .text-box, .b-1,.b-2,.b-3 {
+
+
+        display: center;
+
+
+
+    }
+
+
+    @media only screen and (max-width 620px) {
+
+
+.images {
+
+display:block;
+
+}
+
+    }
